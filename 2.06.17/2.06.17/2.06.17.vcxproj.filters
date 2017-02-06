@@ -19,9 +19,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="1.25.17">
-      <Filter>Source Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>
